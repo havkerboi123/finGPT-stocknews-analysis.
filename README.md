@@ -1,3 +1,4 @@
+![banner](sentment.png)
 
 # LLM bases stock-news sentimentan alysis
 
